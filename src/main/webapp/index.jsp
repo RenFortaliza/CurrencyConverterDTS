@@ -17,10 +17,14 @@
  	<span class="input-group-addon">Convert From :</span>
     <select ng-model="currencyIndex"  id="convertFrom" class="form-control col-md-8">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="PHP">Philippine PesossPHP)</option>
 =======
         <option value="PHP">Philippine Pesoss(PHP)</option>
 >>>>>>> parent of 6531fd5 (95777811ce849253a2e439dd74df25e7f452e81f Revert "aaaaa")
+=======
+        <option value="PHP">Philippine Pesos(PHP)</option>
+>>>>>>> parent of 6f7ff4b (aaaaaa)
         <option value="JPY">Japanese Yen (JPY)</option>
         <option value="USD">US Dollar (USD)</option>
         <option value="INR">Indian Rupee (INR)</option>
