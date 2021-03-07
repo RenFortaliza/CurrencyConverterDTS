@@ -18,6 +18,7 @@
     <select ng-model="currencyIndex"  id="convertFrom" class="form-control col-md-8">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="PHP">Philippine PesossPHP)</option>
 =======
         <option value="PHP">Philippine Pesoss(PHP)</option>
@@ -25,6 +26,9 @@
 =======
         <option value="PHP">Philippine Pesos(PHP)</option>
 >>>>>>> parent of 6f7ff4b (aaaaaa)
+=======
+        <option value="PHP">Philippine Pesos (PHP)</option>
+>>>>>>> parent of f8eff0e (abc)
         <option value="JPY">Japanese Yen (JPY)</option>
         <option value="USD">US Dollar (USD)</option>
         <option value="INR">Indian Rupee (INR)</option>
